@@ -117,3 +117,31 @@ Value stocks usually exhibit strong fundamental characteristics such as **high d
 ## Exchange-Traded Funds (ETFs)
 
 ETFs are **funds that track a portfolio of a specific index or sector, but are listed, and traded, like stocks on an exchange**. ETFs have **many advantages** for investors **including high liquidity, low transaction costs, and diversification**. 
+
+Though many **ETFs invest in traditional assets**, a **considerable number also invest in alternative assets such as currencies and commodities (ETCs)**.
+
+## Equity Size & Value
+
+The **simplest versions of CAPM (Capital Asset Pricing Model) rely soley on market risk (beta) when explaining differences in expected equity returns**. **Higher risk should generate higher expected rewards. However, empirical research suggests that high beta stocks do not outperform the way expected**. 
+
+In 1993, Eugene F. Fama and Kenneth R. French suggested a three factory model that incorporated two additional risk factors: **size and value**. Their long term studies of US equity returns suggested that smaller firms (as measured by market capitalization: number of outstanding shares * price per share) outpeformed larger ones, while value firms (as measured by price-to-book value) outperformed growth firms.
+
+Why should this happen? Some experts (including Fama and French themselves) suggest that excess returns are a rational response to additional risks (for example leverage, volatility, and higher costs of capital) associated with value and/or smaller firms. By contrast, behavioural explanations associate the excess returns with irrational mispricing of economic fundamentals and/or overreactions to previous weakness.
+
+These excess returns are accompanied with higher volatility- size and value portfolios have annualized standard deviations approximately 5-7% higher than market averagers. Portfolios based on either style may go through significant periods of underpeformance relative to the overall market. The idea that multiple risk factors generate excess returns (and the associated concept of factor investment) is now widely accepted amongst investment experts. Analysts debate the merits of other potential sources of excess return, such as momentum and low volatility. 
+
+In 2015, Fama and French introduced a new five-factor model which added two new elements - profitability (higher opreating profibility boosts returns) and investment (high asset growth depresses returns). However, the five-factory model is less admired than its pioneering predecessor (market risk, size & value).
+
+**Outstanding shares** - Shares outstanding refer to a company's stock currently held by all its shareholders. These include share blocks held by institutional investors and restricted shares owned by the company’s officers and insiders. A company's number of shares outstanding is not static and may fluctuate wildly over time.
+
+**Leverage** - Leverage results from using borrowed capital as a funding source when investing to expand the firm's asset base and generate returns on risk capital. Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment.
+
+**Market risk** - Market risk is the possibility that an individual or other entity will experience losses due to factors that affect the overall performance of investments in the financial markets. Market risk and specific risk (unsystematic) make up the two major categories of investment risk. Market risk, also called "systematic risk," cannot be eliminated through diversification, though it can be hedged in other ways. Sources of market risk include recessions, political turmoil, changes in interest rates, natural disasters, and terrorist attacks. Systematic, or market risk, tends to influence the entire market at the same time. This can be contrasted with unsystematic risk, which is unique to a specific company or industry. Also known as “nonsystematic risk,” "specific risk," "diversifiable risk" or "residual risk," in the context of an investment portfolio, unsystematic risk can be reduced through diversification.
+
+**Volatility** - Volatility is a statistical measure of the dispersion of returns for a given security or market index. In most cases, the higher the volatility, the riskier the security. Volatility is often measured as either the standard deviation or variance between returns from that same security or market index.
+
+**Momentum** - Momentum is the rate of acceleration of a security's price—that is, the speed at which the price is changing. Momentum trading is a strategy that seeks to capitalize on momentum to enter a trend as it is picking up steam. Simply put, momentum refers to the inertia of a price trend to continue either rising or falling for a particular length of time, usually taking into account both price and volume information. In technical analysis, momentum is often measured via an oscillator and is used to help identify trends.
+
+**Cost of Capital** - Cost of capital is a company's calculation of the minimum return that would be necessary in order to justify undertaking a capital budgeting project, such as building a new factory. The term cost of capital is used by analysts and investors, but it is always an evaluation of whether a projected decision can be justified by its cost. Investors may also use the term to refer to an evaluation of an investment's potential return in relation to its cost and its risks. Many companies use a combination of debt and equity to finance business expansion. For such companies, the overall cost of capital is derived from the weighted average cost of all capital sources. This is known as the weighted average cost of capital (WACC).
+
+## Private Equity (PE)/Venture Capital (VC)
