@@ -145,3 +145,28 @@ In 2015, Fama and French introduced a new five-factor model which added two new 
 **Cost of Capital** - Cost of capital is a company's calculation of the minimum return that would be necessary in order to justify undertaking a capital budgeting project, such as building a new factory. The term cost of capital is used by analysts and investors, but it is always an evaluation of whether a projected decision can be justified by its cost. Investors may also use the term to refer to an evaluation of an investment's potential return in relation to its cost and its risks. Many companies use a combination of debt and equity to finance business expansion. For such companies, the overall cost of capital is derived from the weighted average cost of all capital sources. This is known as the weighted average cost of capital (WACC).
 
 ## Private Equity (PE)/Venture Capital (VC)
+
+Not all shares are traded on public markets. Some companies raise equity (equity financing is the process of raising capital through the sale of shares) privately from sophisticated insitutional investors and accredited funds. Investments may be in existing businesses (often accompanied by coporate reoraganizations), or may represent seed capital (ventur capital) for new or growing organizations. These **private investments are monetized if/when a company goes public**. This process may take many years. 
+
+The distinctive nature of PE investments means that many experts consider it to be a separate asset class. However, most PE investors take an active role in the management of the underlying companies. It is not obvious that passively-held PE generates any form of "natural" return (or beta). The success (or otherwise) is bound up with the abilities of the investors.
+
+## Equity Returns & Volatility
+
+While equity markets have suffered a number of severe blows in recent decades (ranging from the dotcom crash of the early part of the century to the declines of the global financial crisis), equities **still offer potentially good returns over the long-term. In fact, equities are perhaps the generator of above inflation returns in the long run and their hisotrical performance compares very favorable with that of other asset classes**.
+
+Counterbalancing the attractiveness of potentially higher long-term returns is the fact that equities **can also be very risky investment. This volatility exists because the historical performance of companies is not necessarily a good predictor of future performance**. 
+
+**Market participants have different views on a company's future profitability - this causes volaitlity as different investors trade on different expectations. Volatility also takes account of other factors, such as underlying macroeconomic risks that manifest themselves in the earnings and cash flows of firms in that economy.**
+
+## Equity Risk Premium (ERP)
+
+Because equity markets are volatile, investors will demand a risk premium for investing in this asset class. This premium measures the incremental return that **investors require for holding equities rather than risk free securities such as treasury bills/bonds**. **The risk premium is important as it is the key determinant of the cost of capital, it determines current valuations, and it drives future expected returns**.
+
+The standard approach to estimating equity risk premiums involves the use of historical returns, with the difference in annualised returns on stocks and bills/bonds over a long time period comprising the expected risk premium in the future. Since 1900, the ERP in the US has been estimated at 5.5% relative to short-term bills and 4.3% relative to government bonds. Similar figures for global equity markets are 4.2% and 3.2% respectively.
+
+## Forecasting ERP
+
+Although many ERP forecasts extrapolate from hisotric values, many analysts **prefer forecasts based on current market levels**. **Calculations usually split equity returns into growth and income components**.
+
+
+
