@@ -266,4 +266,152 @@ Bank loans are not securities and traditionally they have not been considered as
 
 Bond risk premium is the **difference between the expected yield on a risky bond and the yield on a risk-free bond of similar maturity and coupon rate**. Let's look at how the BRP arises.
 
-Con
+Consider an ivnestor choosing between two default-free government debt instruments, a short-term bill and a fixed-rate long-term bond. If the interest income on both is the same, then a risk-neutral lender should be indifferent between:
+
+* Investing in a long-dated instrument
+* "Rolling over" a succession of short-dated bills
+
+The yield on the long-dated bond would be equivalent to the average short-term interest rate expected over its life. Over long observation periods (assuming similar episodes of both rising and falling rates) returns on bills should be the same as those on bonds. However, empirical evidence shows that bond investments have historically outperformed bills (short-term).
+
+Furthermore, most yield curves are positive, that is, long-term rates are higher than short-term rates. In a risk-neutral world, higher long-term rates reflect expectations of short-term rate rises. This suggests that investors are predicting rising rates most of the time - this is not an equillibrium state over a whole business cycle.
+
+We can explain the historical observations of both excess returns and positive yiedl curves if we assume that investors are in fact risk-averse and require some compensation - in the form of BRP - for "locking up" asstes and taking duration risk. A government bond yield can be considered a combination of rate expections and BRP.
+
+## Bond Risk Premium (BRP): Calculation
+A positive BRP generates a positive yield curve even when no rate rises are forecast. If we combine current bond yields with interest rate forecasts, it is possible to infer the BRP.
+
+For example, if a ten-year bond currently has a yield of 4%, and analysts expect future rates to average 3%, then the BRP will be 1%. Although historic evidence suggests that BRPs are usually positive, if bond prices rise too much (and yields fall too much) then a BRP inferred from current levels may be negative.
+
+Although there is some relationship between observed excess returns and volatility, it is not as simple as saying that longer duration means a higher premium. For example, investors in medium-term US Treasuries historically received higher excess returns than those who owned longer-dated assets, despite lower volatility.
+
+## Credit Risk Premium (CRP)
+
+Credit spreads represent the excess return of a risky instrument over a default-free government alternative. In a risk-neutral universe, the spread would simply equal expected loss (EL), which is equal to probability of default (PD) times loss given default (LGD).
+
+**Credit Spread = EL = PD x LGD**
+
+After removing credit losses, returns on risky bonds should equal those on riskless government bonds. However, studies of US corporate bonds suggest that post-default returns exceed those of government bonds. Rough estimates of post-default excess return in the US corporate bond market range from 0.25-0.50% per annum. The credit spread should include this excess return, or credit risk premium:
+
+**Credit Spread = EL + CRP**
+
+Empirical research suggests that the "gross" CRP can be broken down into a number of constituent parts, though there is disagreement surrounding the importance of each component
+
+In some jurisdictions, part of the premium may be due to differential tax treatment between government and corporate bonds. Corporate bonds may also attract a risk premium due to illiquidity. Finally, default risk is not fully diversifiable (bond defaults tend to "cluster” together). Investors may require compensation for this systematic risk.
+
+### Correlation with Equities
+
+Since default rates are associated with the same economic drivers as those for equities, it is no surprise both that risky bonds are positively correlated with equities, and that this correlation increases with credit risk. Studies have shown that the weakest credits (HY bonds) have a high correlation with the equity market and a negative correlation with treasuries.
+
+# Cash & Cash Alternatives
+
+## Overview of Cash & Cash Alternatives
+
+Physical cash holdings represent the extreme end of the investment spectrum. As long as it is safe from theft, cash does not decline in nominal terms. However, inflation reduced the real value of cash worldwide by around 4% per annum during the period 1900-2014 (Source: Credit Suisse).
+Investors can boost returns somewhat through low-risk alternatives such as savings accounts or short-term debt investments, but returns remain poor compared with longer-term investments.
+Over the long term, the average portfolio cannot afford to invest the majority of its funds in these instruments. However, there is generally some allocation to easily accessible, low-risk investments that can be liquidated at short notice. This "dry powder" allows investors to respond to short-term opportunities or cover unforeseen liabilities.
+
+## Types of Cash Investment
+
+### Government Bills
+
+Government bills (short-term debt securities) are the preferred low-risk cash market choice for many investors. As well as being virtually default-free, most major bill markets are highly liquid. Global historic real returns on bills have been mildly positive (around 1% per annum for the period 1900-2015).
+
+### Certificates of Deposit (CDs)
+
+A CD is a debt security issued by a financial institution (usually a bank) similar to a time deposit. Although CDs can have maturity of up to five years, the majority are for less than six months. Outside of the US, high-denomination CDs are traded wholesale between financial institutions, although markets are not usually as liquid as those for bills. US CDs are effectively long-term savings accounts designed for retail investors - CDs are government-insured, and there is little secondary market trading. Nevertheless, CD rates are still higher (roughly 0.2-0.3%) than those for bills.
+
+### Commercial Paper (CP)
+
+CP is a generic term for negotiable short-term debt instruments issued by private entities. Originally, the term referred to nonfinancial US corporate issuance, but today CP is issued across the globe by both financial and nonfinancial borrowers. CP is usually unsecured, with maturities varying from one day to a year.
+
+There is limited liquidity in the CP market, and many investors hold to maturity. The return differential between CP and bills varies between markets and maturities. For example, the excess return of Us three-month CP over three-month US Treasury bills has generally been between 0.20-6.30%. However, at the height of the financial crisis this gap widened to over 2.5%.
+
+### Money Market Funds (MMFS)
+
+Investors can purchase short-term securities indirectly by investing in a money market fund (MMF). An MMF is a type of open-ended mutual fund that purchases the money market securities, such as Treasury bills, CD, and CP. Many brokerages automatically place ("sweep") investors' surplus cash into MMFS. By investing in risky assets, MMFS provide higher yields than bank deposits, but there is no government insurance. During the financial crisis. the net asset value of some funds fell below the principal invested (in market jargon, these funds "broke the buck"). This highlighted the fact that MMFS are low risk rather than no risk.
+
+# Real Estate
+
+## Overview of Real Estate
+
+Real estate (or property makes up around 10% of global assets under management. In terms of risks and return, this asset class seems to lie somewhere between equity and fixed income. However, the heterogeneous and opaque nature of real estate investments makes precise measurement difficult.
+
+Most real estate investment is in commercial property such as office buildings or shopping malls, although there are also some large-scale investments in residential property. Returns are a combination of income (mainly rents) and capital gains/losses.
+
+Although popular perceptions of property markets are linked to dramatic changes in capital values (bubbles or crashes), there is no long-term evidence of real capital appreciation. However, nominal values tend to keep pace with inflation. While they must be wary of medium-term capital trends, long-term investors focus on potential rental yields.
+
+## Real Estate Invesment
+
+Direct ownership is the most straightforward method of private investment in real estate. However, such investments are comparatively illiquid. The property market is "lumpy" in that transactions are occasional rather than continuous, with each one separately negotiated. Investments will usually require significant outlay of capital, so diversification is only available to very large investors. Unlike securities, real estate cannot be stored or transported, and investors cannot "go short." Instead of transparent price information, investors rely on periodic, subjective appraisals. Since sole ownership often involves active management of the underlying asset, investors may instead form property clubs/syndicates that delegate management while remaining responsible for asset selection.
+
+Over three quarters of all real estate investment is via real estate investment trusts (REITS). A REIT is a restricted property-owning company that distributes all (or most of its income as dividends. REITS do not usually pay corporate tax because stockholders pay income tax on the distributions. Most REITs are publicly listed, although there are some private structures. While REITs, or their equivalents, are found across the globe, us vehicles account for just over half of global market capitalization. Investors also purchase shares in non-REIT listed property companies or funds.
+
+Since the property market is largely immune to arbitrage, there are significant variations in the performance of real estate both between and within different countries. This lack of correlation encourages diversification, although most investment managers exhibit a strong home bias. There are significant difficulties associated with calculating the historic investment performance of real estate. There is a notable lack of data outside of the us, and measurements through price appraisals tend to understate volatility. In terms of correlations with other asset classes, studies suggest that direct real estate investments have negligible correlation (if any) with bonds and are only weakly correlated with equities. Public investments (REITS) have a significant positive correlation with equities and are negatively correlated with bonds.
+
+# Alternative Assets
+
+## Overview of Alternative Assets
+
+Alternative assets (or alternative investments) are assets that are not mainstream ("traditional") assets like debt and equity. Key characteristics of alternative assets include:
+
+* A limited investment history 
+* An illiquid (or nonexistent) secondary market 
+* Different performance characteristics to traditional assets 
+* Requirement for specialist skills on the part of the asset manager
+
+By contrast, traditional assets are typically traded in liquid public markets and are managed by mainstream strategies.
+
+Alternative assets offer investors the benefits of diversification and potentially higher returns. Their relative illiquidity makes them suitable as a long-term investment. Against this, alternative assets may be hard to value and expensive to trade.
+
+Next let's look at the key types of alternative asset.
+
+## Types of Alternative Assets
+
+### Commodities
+
+Commodities are raw or partly refined materials traded for processing into final goods. Examples of commodities include grains, meat, metals, oil, and gas. Most commodities are consumed or transformed into other products, though some commodities like gold (and other precious metals) can act as a store of value especially in times of economic uncertainty.
+
+The value of a particular commodity is dependent upon global supply and demand. Consequently, commodity prices are determined globally rather than regionally. Most commodities are exchange-traded and are for future delivery. Returns on commodity futures are derived from the price performance of the commodity in the cash market, rolling near-dated contracts forward into far-dated contracts, and interest earned on excess margin collateral.
+
+One of the main benefits of investing in a commodity is that it both diversifies an investment portfolio and acts as a countercyclical asset. Commodity prices have a low or even negative correlation with the prices of capital assets, such as stocks and bonds. Commodities also have a low correlation with each other as they are subject to different economic influences. However, commodities are often illiquid assets that exhibit short-term price swings. Commodity prices may also move in line with producer and consumer prices during periods of inflation but not in periods of deflation.
+
+### Currencies
+
+Foreign currency is an increasingly popular asset class for investors. The main attraction of this asset is its low correlation with bond or equity market returns. Investing in currencies can thus be a useful tool in diversifying an investment portfolio. Currencies are also income-producing assets, as investors can earn interest on foreign currency deposits.
+
+### Hedge Funds
+
+A hedge fund is a pooled investment vehicle that is privately organized, administered by professional investment managers, and not widely available to the public. A hedge fund will typically:
+
+* Have an absolute return performance objective (outlined in the fund's prospectus), 
+* Grant the fund manager significant flexibility in investment style, including the use of derivatives and leverage, and the ability to take long and short positions in the market 
+* Reward the manager with performance-based fees 
+* Involve significant trading activity and adjustment of positions
+
+Hedge funds attract talented and motivated fund managers and may thus offer superior risk-adjusted returns. Hedge fund returns have historically displayed a low correlation with equity and bond markets as well as with each other.
+
+### Private Equity
+
+Private equity is a form of equity not freely tradable on a public stock exchange. It is used by investors looking to start up, expand, or purchase a stake in a business. The two main strategies for private equity investing are venture capital and leveraged buy-outs.
+
+Most private equity investments are financed and managed by the general managers of investment partnerships. These then sell their stakes after their investment goals have been achieved.
+
+### Structured Products
+
+Structured products are debt instruments where the return is in the form of an embedded derivative payout. They tend to have a specified maturity, automatically generate return, and are usually cash-settled. A typical structured product will consist of some combination of participation, downside protection, and capped return.
+
+For investors, structured products offer the benefits of customization and diversification, though liquidity may be limited. There is also credit risk on the issuer of the instrument, as well as potential credit risk as regards components referenced in the instrument.
+
+### Art & Other Collectibles
+
+Collecting works of art, fine wines, jewelry, and so on, has historically been seen as the preserve of the connoisseur, but increasingly it is being used as an investment. Collectibles are seen as a store of value due to their permanence, portability, and rarity value.
+
+Costs and risks of investing in art and other collectibles include market illiquidity, lack of price transparency, and high storage and insurance costs.
+
+## Alternative vs Mainstream Assets
+
+There is some controversy as to what constitutes a mainstream asset and what may be classified as an alternative asset. For example, some regard real estate to be a mainstream asset; others will categorize it as an alternative asset.
+
+While many consider alternative assets to be separate asset classes, others consider them to be subclasses of traditional asset classes. For example, private equity is considered by many to be a separate asset class, but others would treat it as a subclass of the equities class. In this tutorial we will consider them to be separate asset classes.
+
+Although we have chosen to classify hedge funds as alternative assets, these funds invest largely in mainstream assets. However, the strategies employed by hedge funds are nontraditional and thus they can be can be viewed as alternative strategies.
