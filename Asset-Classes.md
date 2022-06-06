@@ -168,5 +168,102 @@ The standard approach to estimating equity risk premiums involves the use of his
 
 Although many ERP forecasts extrapolate from hisotric values, many analysts **prefer forecasts based on current market levels**. **Calculations usually split equity returns into growth and income components**.
 
+For example, given a constant P/E ratio, the combination of dividend yield (DY) and dividend growth (g) generates basic "real" returns (income plus capital). Adding inflation gives the normal return. **Analysts can forecast future values and returns using observed values of dividend yield and forecast values for growth**.
 
+The implied ERP can be calculated using some form of dividend discount model (DDM). Although details differ, all DDMs assume that the present value of a share is equal to the discounted future value of all future dividends. 
 
+The most popular DDM model, the Gordon growth model, assumes that the **current value of a share is explained by the current dividend, a market discount rate(r), and a constant dividend growth (g). It has the following formula**:
+
+**P = D / (r - g)**
+
+**r = D/P + g**
+
+Dividend/price is simply the dividend yield (DY), **so r = DY + g**. The discount rate r can be decomposed into the riskless government bond yield (y) + the equity risk premium (ERP).
+
+**DY + g = y + ERP**
+
+**ERP = DY + g - y**
+
+### Forecasting ERP: Issues
+
+The simplicity of this methodology is deceptive. There is plenty of disagreement around specific calculations, particularly as regards valuation of the long-term growth rate. Analysts differ as to weather to use dividend data, earnings data, or GDP growth rates. If derives ERP is significantly different from historical averages, this could indicate:
+
+* An under or overvalued market, and/or
+* A long-term change in investors' risk perceptions
+
+An alternative is to base ERP forecasts around survey data. These surveys aggregate ERP estimates from experts such as academics, investors, or corporate finance professionals. However, the quality of the responses will vary, and measurements typically exhibit high levels of volatility.
+
+# Fixed Income
+
+## What is Fixed Income?
+
+"Fixed Income" describes the whole universe of long-dated debt securities (bonds). Investors generally receive more stable returns on bonds than they do on equities, since interest payments do not vary with the specific performance of the issuer. However, the term "fixed income" is misleading. **Not all bonds have fixed coupon. and the income is only "fixed" so long as the borrower does not default**.
+
+Duration risk applies to standard fixed rate bonds due to the inverse relationship between yield and price (as yields, prices fall, and vice versa). As bond duration increases, bond prices are more sensitive to yield changes. Furthermore, inflation erodes the real value of fixed returns. These impacts are reduced where bonds are inflation-linked or have variable coupons.
+
+**Duration Risk** - Duration risk is the risk associated with the sensitivity of a bond's price to changes in interest rates.
+
+## Bond Issuers
+
+Bond market issuers vary markedly in terms of type and geographic location. The wide variety of potential debt instruments means that most borrowers are in some way involved in the bond markets. Key issuers include:
+
+### Governments
+ Government Securities (especially those denominated in the domestic currency) represent the bedrock of most developed bond markets. Government bonds issued in the domestic currency **are effectively default-free - the government can always choose to print money to satisfy local currency obligations**.
+
+Government securities are considered by many to be riskless. For any particular maturity, local currency government bond yields are typically regarded as default-free benchmarks.
+
+However, government bonds are impacted by duration risk, and foreign investors must take account of foreign exchange risk. Nevertheless, some government bonds (such as TIPs) are inflation-linked; the yields on these bonds represent real returns.
+
+Where there is no well-developed local capital market, governments raise funds by issuing bonds denominated in foreign currencies (particullaryly USD and EUR) on international markets.
+
+### Other Public Entities
+
+Local governments, public utilities, and supranational orfanizations issue bonds both internationally and on domestic markets. In the US domestic market, tax-exempt bonds are issued by state and local government entities. These bonds are not default free, that is, they are not guaranteed by the US government.
+
+### Corporates
+
+The broad category of private corporate bond issuance is usually divided between high-quality investment grade (IG) borrowers and more speculative high yield (HY) borrowers. The price of a HY bond is usually sensitive to changes in credit perceptions than to changes in interest rates.
+
+### Securitizaitons
+
+In a securitization, a special-purpose company issues a bond where interest payments are generated by an underlying collateral pool of assets. These are significant differences between the credit qualities of particular classes of bond.
+
+## Bond Issuers: Sectors
+
+Issuers can be grouped together according to domicile or industry.
+
+Historically, some borrowers have borrowed debt at different prices by issuing in multiple markets (for examlpe, domestic and international markets), and each of these markets represent a separate subclass.
+
+However, regulatory changes have eradicted many of the difference between trading markets, and price differentials have fallen.
+
+## Bond Issuers: Private Issuance
+
+As with equities, some expert investors purchase bonds that are not tradable on conventional markets through private placements. These securities may be exempt from some domestic market restrictions, thus allowing the issuance of customised transactions with non-standard terms and covenants. This apporach is particularly suited to smaller HY issuers.
+
+## Features of Bonds
+
+Some other key features of bonds include:
+
+### Coupon
+
+Some bonds have variable rather than fixed coupons. In most cases, coupon rates reset every three or six months, reflecting any changes in short-term rates. Duration risk is often negligible, but investors must still take account of credit risk. By contrast, zero coupon bonds have no interim payments. The bond price is the discounted value of the principal. Duration risk for a zero-coupon bond is higher than for fixed coupon bonds of similar maturity.
+
+### Maturity
+
+Bonds can be grouped according to their final maturity:
+
+* Short-dated bonds: less than 3 years
+* Medium-term bonds: 4-10 years
+* Lond-dated bonds: more than 10 years
+
+Some perpetual ("undated") bonds have no maturity - these bonds must be valued by discounting the appropriate annuity stream. Note it may be misleading toe classify bonds by maturity if they have **embeded options**. Call options (associated with many high yield corporate bonds) allow the isseur to redeem bonds before a final maturity date, while put provisions give an early redemption option to the bondholder.
+
+## Loans
+
+Bank loans are not securities and traditionally they have not been considered as part of an investable asset class. However, nonbank investors are becoming increasingly active in the loans market, either through direct transactions or by purchasing loan funds or securitizations. High yield leveraged loans are particularly popular, and returns and correlations are similar to those of high yield bonds.
+
+## Bond Risk Premium (BRP)
+
+Bond risk premium is the **difference between the expected yield on a risky bond and the yield on a risk-free bond of similar maturity and coupon rate**. Let's look at how the BRP arises.
+
+Con
